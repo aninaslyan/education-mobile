@@ -1,3 +1,1 @@
-`npm start` for executing the app
-
-Access at `http://localhost:8080`
+Access at `http://localhost:8081/index.ios.bundle`
